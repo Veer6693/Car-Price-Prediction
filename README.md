@@ -30,6 +30,11 @@ To use this project, follow these steps:
 
 - The prediction is based on a Linear Regression model trained on a dataset of car prices and their corresponding features. The model takes into account the various features of the car to estimate its price.
 
+![Screenshot (10)](https://github.com/Veer6693/Car-Price-Prediction/assets/102231617/f2c79bd6-f0b9-4503-a8e5-e3c8a956059a)
+
+
+![Screenshot 2024-02-21 115828](https://github.com/Veer6693/Car-Price-Prediction/assets/102231617/d5890bcf-5a88-40f3-b31f-9dab90fb4e26)
+
 
 ## Future Improvements
 
